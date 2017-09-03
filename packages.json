@@ -1,0 +1,13 @@
+{
+    "minimumVersion": 1,
+    "packages": [
+        {
+            "name": "SMCReboot",
+            "title": "SMCReboot",
+            "version": "1.00",
+            "location": "modpack/manifest.json",
+            "priority": 1
+        },
+        
+    ]
+}
