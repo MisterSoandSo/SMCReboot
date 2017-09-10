@@ -3,6 +3,7 @@
 ### Minecraft 1.10.2 - Alpha Test Pack
 
 **This pack is meant for private testing and usage.** 
+
 For actual verified mods, go to https://mods.curse.com/mc-mods/minecraft for valid sources.
 
 #Install Instructions - In case if Twitch Launcher fails on you
@@ -24,11 +25,17 @@ For actual verified mods, go to https://mods.curse.com/mc-mods/minecraft for val
 	> ![download](img/instruct.png)
 	> Drag both mods and config into the following location
 	> **NOTE: This may differ depending on how you tweaked your computer.**	
+		
 		> For Windows: 
+			
 			> Press ? Windows + R then type in: "%appdata%\.minecraft\"
+			
 			> ![win](img/winsave.png)
+		
 		> For MAC/Linux:
+			
 			> Search the location: "~/Library/Application Support/minecraft"
+			
 			> ![mac](img/macsave.png)
 
 4. Now run your game.
