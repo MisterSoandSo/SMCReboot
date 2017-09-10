@@ -26,19 +26,15 @@ For actual verified mods, go to https://mods.curse.com/mc-mods/minecraft for val
 	> Drag both mods and config into the following location
 	> **NOTE: This may differ depending on how you tweaked your computer.**	
 		
-		> For Windows: 
+		> For Windows: Windows + R then type in: "%appdata%\.minecraft\"
 			
-			> Press ? Windows + R then type in: "%appdata%\.minecraft\"
-			
-			> ![win](img/winsave.png)
+	![win](img/winsave.png)
 		
-		> For MAC/Linux:
+		> For MAC/Linux: Search the location: "~/Library/Application Support/minecraft"
 			
-			> Search the location: "~/Library/Application Support/minecraft"
-			
-			> ![mac](img/macsave.png)
+	![mac](img/macsave.png)
 
-4. Now run your game.
+4. Now run your game. **Have fun!**
 
 
 
