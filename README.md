@@ -10,7 +10,7 @@ For actual verified mods, go to https://mods.curse.com/mc-mods/minecraft for val
 
 1. Install [JavaJDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) that suits the version of OS that you are using. (Skip if you have done so)
 
-2. Go to [Forge](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.10.2.html) and download **Version: 12.18.3.2316 - this is the version that we are using for the server.**
+2. Go to [Forge](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.10.2.html) and download **Version: 12.18.3.2477 - this is the version that we are using for the server.**
 	
 	> 1. Download the following:
 	>	*For Windows: Installer-win.exe
